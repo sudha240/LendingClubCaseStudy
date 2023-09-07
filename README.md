@@ -39,6 +39,6 @@ If company did not approve the loan because of not meeting the requirements of t
 
 ## Contact
 Created by 
-- Sudha Velpuri (sudhavelpuri24@gmail.com)
--  Moka (narenraju.m@gmail.com) - feel free to contact us!
+- Sudha Velpuri (github username- sudhav240)
+-  Moka (github username- icsaiml) - feel free to contact us!
 
